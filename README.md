@@ -27,7 +27,7 @@ Visual simples, cores suaves e símbolos em emoji para deixar tudo mais divertid
 Aqui estão alguns gifs mostrando o jogo funcionando:
 
 ![Gameplay do Tic Tac Toe](./gifs/Jogo.gif)
-![Reset e estados do jogo](./gifs/Jogo2.gif)
+![Reset e estados do jogo](./gifs/Jogo1.gif)
 
 ## 🌱 Objetivo do projeto
 
