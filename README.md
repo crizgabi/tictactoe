@@ -24,7 +24,9 @@ Visual simples, cores suaves e símbolos em emoji para deixar tudo mais divertid
 
 ## 🖼️ Demonstração
 
-![Reset e estados do jogo](./gifs/Jogo1.gif)
+<p align="center">
+  <img src="./gifs/Jogo1.gif" width="300" />
+</p>
 
 ## 🌱 Objetivo do projeto
 
